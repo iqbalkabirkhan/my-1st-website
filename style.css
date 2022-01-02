@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+ 
+    font-size: 50px;
+}
+.red-colour{
+    color: red;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+
+}
+.half-width img{
+    width: 50%;
+
+}
+.top-banner{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+
+}
+.link-buttom{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.middle-banner{
+    background-image:url(img/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
+.single-ex{
+    box-shadow: 10px 10px 40px gray;
+    border: 5px;
+    height: 50%;}
+    .experience-area{
+        background-image: url(img/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    #full-stack{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,lightsalmon,tomato);
+        border-image-slice: 1;
+
+    }
+    #baby-web{
+        border-left: 7px solid;
+        border-image: linear-gradient(180deg,blue,cyan);
+        border-image-slice: 1;
+    }
+    .footer{text-align: center
+        ;
+    }
